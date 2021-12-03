@@ -11,8 +11,18 @@ nav {
     justify-content: space-between;
 }
 
-ul, li {
+.nav-social {
+    width: 400px;
+}
+
+.nav-social li, ul {
     display: inline;
+    margin: 0 10px;
+}
+
+
+.logo {
+    width: 90px;
 }
 
 /*
