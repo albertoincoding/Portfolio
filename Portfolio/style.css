@@ -1,0 +1,31 @@
+/*
+Navbar
+*/
+nav{
+    background-color: black;
+    color: white;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+ul, li {
+    display: inline;
+}
+
+/*
+Project
+*/
+.project-container {
+    border: black;
+    border-radius: 10px;
+    border-style: solid;
+}
+
+
+footer {
+    background-color: black;
+    color: white;
+}
